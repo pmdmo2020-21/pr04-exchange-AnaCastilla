@@ -13,9 +13,9 @@ enum class Currency(
     POUND("£", R.drawable.ic_pound, 1.31);
 
     // TODO: Method to convert the currency to dollar.
-         fun toDollar(amount: Double): Double = amount*asDollar
+         fun toDollar(amount: Double) = amount*asDollar
 
     // TODO: Method to convert a dollar to the currency
-         fun fromDollar(amount: Double): Double = amount/asDollar
+         fun fromDollar(amount: Double) = amount/asDollar
 
 }

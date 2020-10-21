@@ -8,5 +8,5 @@
     <string name="pound">Pound</string>
     <string name="txtToCurrency">To currency</string>
     <string name="txtExchange">EXCHANGE</string>
-    <string name="result">$.2f $s = $.2f $s</string>
+    <string name="result">%.2f %s = %.2f %s</string>
 </resources>
