@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Exchange</string>
+    <string name="txtAmount">Amount</string>
+    <string name="amount">0</string>
+    <string name="txtFromCurrency">From currency</string>
+    <string name="dollar">Dollar</string>
+    <string name="euro">Euro</string>
+    <string name="pound">Pound</string>
+    <string name="txtToCurrency">To currency</string>
+    <string name="txtExchange">EXCHANGE</string>
 </resources>

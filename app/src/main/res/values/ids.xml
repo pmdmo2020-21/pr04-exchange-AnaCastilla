@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lblAmount" type="id" />
+    <item name="edtAmount" type="id" />
+    <item name="lblFromCurrency" type="id" />
+    <item name="rdgFrom" type="id" />
+    <item name="rdbFromDollar" type="id" />
+    <item name="rdbFromEuro" type="id" />
+    <item name="rdbFromPound" type="id" />
+    <item name="imgFrom" type="id" />
+    <item name="lblToCurrency" type="id" />
+    <item name="rdgTo" type="id" />
+    <item name="rdbToDollar" type="id" />
+    <item name="rdbToEuro" type="id" />
+    <item name="rdbToPound" type="id" />
+    <item name="imgTo" type="id" />
+    <item name="btnExchange" type="id" />
+</resources>
